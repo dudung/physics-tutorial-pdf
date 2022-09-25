@@ -1,2 +1,2 @@
 # physics-tutorial-pdf
-physics tutorial problem in pdf
+problems for physics tutorial in pdf
