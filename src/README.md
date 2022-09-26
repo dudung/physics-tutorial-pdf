@@ -6,3 +6,4 @@
 1159 Get info about gitigone for Go from https://github.com/golang/go/blob/master/.gitignore.
 1207 Start to learn from https://go.dev/doc/tutorial/getting-started and it works.
 1208 Move to src and it still works, even do not understand.
+1214 Try to learn https://pkg.go.dev/github.com/dslipak/pdf someday.
