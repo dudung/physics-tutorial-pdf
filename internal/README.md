@@ -7,6 +7,7 @@ journey of learning go
 + 0844 Set temporary purpose still to provide physics tutorial with help of Go.<br>
 + 0848 Read [article from Elliot Forbes](https://tutorialedge.net/golang/creating-simple-web-server-with-golang/) for building a simple web server.
 + 0854 Still wait for [Haskell recommended installation process](https://www.haskell.org/ghcup/).
++ 1114 Update .gitignore file with psh.lnk for Windows PowerShell, test Go and ok.
 
 
 ## 26-sep-2022
