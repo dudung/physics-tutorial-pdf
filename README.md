@@ -1,2 +1,2 @@
 # simple web server
-simple web server with go for physics tutorial
+learn simple web server with go
