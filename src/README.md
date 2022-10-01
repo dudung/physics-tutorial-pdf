@@ -1,10 +1,12 @@
 # src
 journey of learning go
 
+
 ## 01-oct-2022
 + 0843 Rename this repository from physics-tutorial-pdf to simple-web-server.<br>
 + 0844 Set temporary purpose still to provide physics tutorial with help of Go.<br>
 + 0848 Read [article from Elliot Forbes](https://tutorialedge.net/golang/creating-simple-web-server-with-golang/) for building a simple web server.
+
 
 ## 26-sep-2022
 + 1157 Finish install Go from https://go.dev/doc/install for go1.19.1.windows-amd64.msi (135 MB).<br>
