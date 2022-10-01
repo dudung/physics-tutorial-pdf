@@ -1,5 +1,5 @@
 # src
-..
+journey of learning go
 
 ## 01-oct-2022
 + 0843 Rename this repository from physics-tutorial-pdf to simple-web-server.<br>
