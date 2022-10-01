@@ -1,2 +1,2 @@
 # assets
-pdf file for further process
+pdf files for further process
