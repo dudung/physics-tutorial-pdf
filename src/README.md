@@ -6,6 +6,7 @@ journey of learning go
 + 0843 Rename this repository from physics-tutorial-pdf to simple-web-server.<br>
 + 0844 Set temporary purpose still to provide physics tutorial with help of Go.<br>
 + 0848 Read [article from Elliot Forbes](https://tutorialedge.net/golang/creating-simple-web-server-with-golang/) for building a simple web server.
++ 0854 Still wait for [Haskell recommended installation process](https://www.haskell.org/ghcup/).
 
 
 ## 26-sep-2022
