@@ -1,2 +1,2 @@
-# physics-tutorial-pdf
-problems for physics tutorial in pdf
+# simple web server
+simple web server with go for physics tutorial
